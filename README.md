@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Eliot, and I am a data scientist in the Credit Risk Analytics team at Lithia Motors. In 2023, I graduated Magna Cum Laude from the University of Oregon with a double major in Computer Science and Data Science and a minor in mathematics. 
+
+You can reach me here:
+- [LinkedIn](https://www.linkedin.com/in/eliotjmartin/)
+- [Email](eliotm@uoregon.edu)
 <!--
 **eliotjmartin/eliotjmartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
