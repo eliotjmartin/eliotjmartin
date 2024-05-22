@@ -28,7 +28,7 @@ FIXME
 Feel free to reach out to me for collaboration, opportunities, or just to connect:
 
 - **[LinkedIn](https://www.linkedin.com/in/eliotjmartin/)**
-- **[Email](eliotm@uoregon.edu)**
+- **[Email](mailto:eliotm@uoregon.edu)**
 
 ---
 
