@@ -1,12 +1,6 @@
-# Hi there 👋
+# Hello!
 
 My name is **Eliot**, and I am a data scientist in the Credit Risk Analytics team at Lithia Motors. I graduated **Magna Cum Laude** from the University of Oregon in 2023, with a double major in **Computer Science** and **Data Science**, and a minor in **Mathematics**.
-
----
-
-## About Me
-
-FIXME
 
 ## Featured Projects
 
@@ -17,15 +11,15 @@ FIXME
 ## Skills
 
 - **Programming Languages**: Python, SQL, C
-- **Data Analysis**: Pandas, NumPy, Scikit-Learn Microsoft Excel
+- **Data Analysis**: Pandas, NumPy, Scikit-Learn, Microsoft Excel
 - **Visualization**: PowerBI, Matplotlib, Seaborn
 
 ## Education
 
 - **University of Oregon** (2019-2023)
   - B.S. in Computer Science and Data Science
-  - Co-founded and Presided over the University of Oregon Data Science Club
   - Minor in Mathematics
+  - Co-founded and Presided over the University of Oregon Data Science Club
   - Graduated Magna Cum Laude 
 
 ## Contact Me
