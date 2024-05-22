@@ -13,6 +13,7 @@ FIXME
 - **Programming Languages**: Python, SQL, C
 - **Data Analysis**: Pandas, NumPy, Scikit-Learn, Microsoft Excel
 - **Visualization**: PowerBI, Matplotlib, Seaborn
+- **Miscellaneous**: Backpacking, bouldering, and catching amphibians (and safely releasing them)
 
 ## Education
 
