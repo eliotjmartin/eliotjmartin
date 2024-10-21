@@ -6,7 +6,7 @@ My name is **Eliot**, and I am a data scientist in the Credit Risk Analytics tea
 
 Here are some of the projects that showcase my skills and experience:
 
-FIXME
+[Chatbot from Scratch!](https://github.com/eliotjmartin/syllabus_chatbot/blob/main/chatbot.ipynb)
 
 ## Skills
 
